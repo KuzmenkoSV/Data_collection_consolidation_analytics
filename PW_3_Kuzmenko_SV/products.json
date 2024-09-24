@@ -1,0 +1,602 @@
+[
+    {
+        "product_id": "P000",
+        "name": "Продукт 0",
+        "category": "Смартфон",
+        "price": 140.36
+    },
+    {
+        "product_id": "P001",
+        "name": "Продукт 1",
+        "category": "Телефизор",
+        "price": 240.3
+    },
+    {
+        "product_id": "P002",
+        "name": "Продукт 2",
+        "category": "Ноутбук",
+        "price": 828.42
+    },
+    {
+        "product_id": "P003",
+        "name": "Продукт 3",
+        "category": "Смартфон",
+        "price": 696.58
+    },
+    {
+        "product_id": "P004",
+        "name": "Продукт 4",
+        "category": "Wi_Fi_роутер",
+        "price": 367.47
+    },
+    {
+        "product_id": "P005",
+        "name": "Продукт 5",
+        "category": "Телефизор",
+        "price": 957.02
+    },
+    {
+        "product_id": "P006",
+        "name": "Продукт 6",
+        "category": "Смартфон",
+        "price": 754.27
+    },
+    {
+        "product_id": "P007",
+        "name": "Продукт 7",
+        "category": "Wi_Fi_роутер",
+        "price": 697.38
+    },
+    {
+        "product_id": "P008",
+        "name": "Продукт 8",
+        "category": "Планшет",
+        "price": 475.92
+    },
+    {
+        "product_id": "P009",
+        "name": "Продукт 9",
+        "category": "Смартфон",
+        "price": 593.59
+    },
+    {
+        "product_id": "P010",
+        "name": "Продукт 10",
+        "category": "Смартфон",
+        "price": 821.39
+    },
+    {
+        "product_id": "P011",
+        "name": "Продукт 11",
+        "category": "Wi_Fi_роутер",
+        "price": 655.27
+    },
+    {
+        "product_id": "P012",
+        "name": "Продукт 12",
+        "category": "Wi_Fi_роутер",
+        "price": 584.75
+    },
+    {
+        "product_id": "P013",
+        "name": "Продукт 13",
+        "category": "Ноутбук",
+        "price": 68.44
+    },
+    {
+        "product_id": "P014",
+        "name": "Продукт 14",
+        "category": "Wi_Fi_роутер",
+        "price": 905.46
+    },
+    {
+        "product_id": "P015",
+        "name": "Продукт 15",
+        "category": "Wi_Fi_роутер",
+        "price": 537.93
+    },
+    {
+        "product_id": "P016",
+        "name": "Продукт 16",
+        "category": "Телефизор",
+        "price": 353.19
+    },
+    {
+        "product_id": "P017",
+        "name": "Продукт 17",
+        "category": "Ноутбук",
+        "price": 246.55
+    },
+    {
+        "product_id": "P018",
+        "name": "Продукт 18",
+        "category": "Wi_Fi_роутер",
+        "price": 453.65
+    },
+    {
+        "product_id": "P019",
+        "name": "Продукт 19",
+        "category": "Планшет",
+        "price": 903.01
+    },
+    {
+        "product_id": "P020",
+        "name": "Продукт 20",
+        "category": "Смартфон",
+        "price": 592.9
+    },
+    {
+        "product_id": "P021",
+        "name": "Продукт 21",
+        "category": "Ноутбук",
+        "price": 934.15
+    },
+    {
+        "product_id": "P022",
+        "name": "Продукт 22",
+        "category": "Ноутбук",
+        "price": 695.37
+    },
+    {
+        "product_id": "P023",
+        "name": "Продукт 23",
+        "category": "Планшет",
+        "price": 535.37
+    },
+    {
+        "product_id": "P024",
+        "name": "Продукт 24",
+        "category": "Планшет",
+        "price": 414.78
+    },
+    {
+        "product_id": "P025",
+        "name": "Продукт 25",
+        "category": "Wi_Fi_роутер",
+        "price": 665.13
+    },
+    {
+        "product_id": "P026",
+        "name": "Продукт 26",
+        "category": "Смартфон",
+        "price": 229.19
+    },
+    {
+        "product_id": "P027",
+        "name": "Продукт 27",
+        "category": "Ноутбук",
+        "price": 54.77
+    },
+    {
+        "product_id": "P028",
+        "name": "Продукт 28",
+        "category": "Wi_Fi_роутер",
+        "price": 698.46
+    },
+    {
+        "product_id": "P029",
+        "name": "Продукт 29",
+        "category": "Wi_Fi_роутер",
+        "price": 777.88
+    },
+    {
+        "product_id": "P030",
+        "name": "Продукт 30",
+        "category": "Планшет",
+        "price": 103.17
+    },
+    {
+        "product_id": "P031",
+        "name": "Продукт 31",
+        "category": "Ноутбук",
+        "price": 393.22
+    },
+    {
+        "product_id": "P032",
+        "name": "Продукт 32",
+        "category": "Планшет",
+        "price": 650.03
+    },
+    {
+        "product_id": "P033",
+        "name": "Продукт 33",
+        "category": "Телефизор",
+        "price": 436.19
+    },
+    {
+        "product_id": "P034",
+        "name": "Продукт 34",
+        "category": "Планшет",
+        "price": 613.14
+    },
+    {
+        "product_id": "P035",
+        "name": "Продукт 35",
+        "category": "Телефизор",
+        "price": 506.89
+    },
+    {
+        "product_id": "P036",
+        "name": "Продукт 36",
+        "category": "Смартфон",
+        "price": 808.15
+    },
+    {
+        "product_id": "P037",
+        "name": "Продукт 37",
+        "category": "Wi_Fi_роутер",
+        "price": 487.78
+    },
+    {
+        "product_id": "P038",
+        "name": "Продукт 38",
+        "category": "Планшет",
+        "price": 369.57
+    },
+    {
+        "product_id": "P039",
+        "name": "Продукт 39",
+        "category": "Телефизор",
+        "price": 205.82
+    },
+    {
+        "product_id": "P040",
+        "name": "Продукт 40",
+        "category": "Смартфон",
+        "price": 973.8
+    },
+    {
+        "product_id": "P041",
+        "name": "Продукт 41",
+        "category": "Телефизор",
+        "price": 457.22
+    },
+    {
+        "product_id": "P042",
+        "name": "Продукт 42",
+        "category": "Смартфон",
+        "price": 269.55
+    },
+    {
+        "product_id": "P043",
+        "name": "Продукт 43",
+        "category": "Планшет",
+        "price": 952.68
+    },
+    {
+        "product_id": "P044",
+        "name": "Продукт 44",
+        "category": "Смартфон",
+        "price": 646.69
+    },
+    {
+        "product_id": "P045",
+        "name": "Продукт 45",
+        "category": "Ноутбук",
+        "price": 225.57
+    },
+    {
+        "product_id": "P046",
+        "name": "Продукт 46",
+        "category": "Планшет",
+        "price": 322.79
+    },
+    {
+        "product_id": "P047",
+        "name": "Продукт 47",
+        "category": "Телефизор",
+        "price": 931.23
+    },
+    {
+        "product_id": "P048",
+        "name": "Продукт 48",
+        "category": "Wi_Fi_роутер",
+        "price": 689.78
+    },
+    {
+        "product_id": "P049",
+        "name": "Продукт 49",
+        "category": "Телефизор",
+        "price": 893.84
+    },
+    {
+        "product_id": "P050",
+        "name": "Продукт 50",
+        "category": "Ноутбук",
+        "price": 294.74
+    },
+    {
+        "product_id": "P051",
+        "name": "Продукт 51",
+        "category": "Телефизор",
+        "price": 991.18
+    },
+    {
+        "product_id": "P052",
+        "name": "Продукт 52",
+        "category": "Ноутбук",
+        "price": 334.82
+    },
+    {
+        "product_id": "P053",
+        "name": "Продукт 53",
+        "category": "Ноутбук",
+        "price": 309.53
+    },
+    {
+        "product_id": "P054",
+        "name": "Продукт 54",
+        "category": "Планшет",
+        "price": 866.96
+    },
+    {
+        "product_id": "P055",
+        "name": "Продукт 55",
+        "category": "Смартфон",
+        "price": 701.02
+    },
+    {
+        "product_id": "P056",
+        "name": "Продукт 56",
+        "category": "Телефизор",
+        "price": 488.67
+    },
+    {
+        "product_id": "P057",
+        "name": "Продукт 57",
+        "category": "Смартфон",
+        "price": 610.17
+    },
+    {
+        "product_id": "P058",
+        "name": "Продукт 58",
+        "category": "Смартфон",
+        "price": 528.89
+    },
+    {
+        "product_id": "P059",
+        "name": "Продукт 59",
+        "category": "Wi_Fi_роутер",
+        "price": 509.79
+    },
+    {
+        "product_id": "P060",
+        "name": "Продукт 60",
+        "category": "Wi_Fi_роутер",
+        "price": 353.93
+    },
+    {
+        "product_id": "P061",
+        "name": "Продукт 61",
+        "category": "Ноутбук",
+        "price": 635.41
+    },
+    {
+        "product_id": "P062",
+        "name": "Продукт 62",
+        "category": "Телефизор",
+        "price": 553.65
+    },
+    {
+        "product_id": "P063",
+        "name": "Продукт 63",
+        "category": "Смартфон",
+        "price": 843.64
+    },
+    {
+        "product_id": "P064",
+        "name": "Продукт 64",
+        "category": "Телефизор",
+        "price": 679.71
+    },
+    {
+        "product_id": "P065",
+        "name": "Продукт 65",
+        "category": "Планшет",
+        "price": 347.71
+    },
+    {
+        "product_id": "P066",
+        "name": "Продукт 66",
+        "category": "Планшет",
+        "price": 39.34
+    },
+    {
+        "product_id": "P067",
+        "name": "Продукт 67",
+        "category": "Смартфон",
+        "price": 914.78
+    },
+    {
+        "product_id": "P068",
+        "name": "Продукт 68",
+        "category": "Смартфон",
+        "price": 297.19
+    },
+    {
+        "product_id": "P069",
+        "name": "Продукт 69",
+        "category": "Ноутбук",
+        "price": 741.88
+    },
+    {
+        "product_id": "P070",
+        "name": "Продукт 70",
+        "category": "Планшет",
+        "price": 832.73
+    },
+    {
+        "product_id": "P071",
+        "name": "Продукт 71",
+        "category": "Планшет",
+        "price": 93.16
+    },
+    {
+        "product_id": "P072",
+        "name": "Продукт 72",
+        "category": "Смартфон",
+        "price": 180.68
+    },
+    {
+        "product_id": "P073",
+        "name": "Продукт 73",
+        "category": "Wi_Fi_роутер",
+        "price": 32.18
+    },
+    {
+        "product_id": "P074",
+        "name": "Продукт 74",
+        "category": "Планшет",
+        "price": 546.83
+    },
+    {
+        "product_id": "P075",
+        "name": "Продукт 75",
+        "category": "Смартфон",
+        "price": 783.15
+    },
+    {
+        "product_id": "P076",
+        "name": "Продукт 76",
+        "category": "Смартфон",
+        "price": 487.1
+    },
+    {
+        "product_id": "P077",
+        "name": "Продукт 77",
+        "category": "Смартфон",
+        "price": 918.53
+    },
+    {
+        "product_id": "P078",
+        "name": "Продукт 78",
+        "category": "Wi_Fi_роутер",
+        "price": 362.15
+    },
+    {
+        "product_id": "P079",
+        "name": "Продукт 79",
+        "category": "Телефизор",
+        "price": 935.4
+    },
+    {
+        "product_id": "P080",
+        "name": "Продукт 80",
+        "category": "Ноутбук",
+        "price": 606.33
+    },
+    {
+        "product_id": "P081",
+        "name": "Продукт 81",
+        "category": "Wi_Fi_роутер",
+        "price": 704.69
+    },
+    {
+        "product_id": "P082",
+        "name": "Продукт 82",
+        "category": "Смартфон",
+        "price": 147.38
+    },
+    {
+        "product_id": "P083",
+        "name": "Продукт 83",
+        "category": "Смартфон",
+        "price": 279.55
+    },
+    {
+        "product_id": "P084",
+        "name": "Продукт 84",
+        "category": "Wi_Fi_роутер",
+        "price": 974.76
+    },
+    {
+        "product_id": "P085",
+        "name": "Продукт 85",
+        "category": "Смартфон",
+        "price": 899.55
+    },
+    {
+        "product_id": "P086",
+        "name": "Продукт 86",
+        "category": "Wi_Fi_роутер",
+        "price": 10.38
+    },
+    {
+        "product_id": "P087",
+        "name": "Продукт 87",
+        "category": "Wi_Fi_роутер",
+        "price": 245.07
+    },
+    {
+        "product_id": "P088",
+        "name": "Продукт 88",
+        "category": "Wi_Fi_роутер",
+        "price": 622.93
+    },
+    {
+        "product_id": "P089",
+        "name": "Продукт 89",
+        "category": "Ноутбук",
+        "price": 530.19
+    },
+    {
+        "product_id": "P090",
+        "name": "Продукт 90",
+        "category": "Wi_Fi_роутер",
+        "price": 864.6
+    },
+    {
+        "product_id": "P091",
+        "name": "Продукт 91",
+        "category": "Ноутбук",
+        "price": 880.44
+    },
+    {
+        "product_id": "P092",
+        "name": "Продукт 92",
+        "category": "Телефизор",
+        "price": 646.22
+    },
+    {
+        "product_id": "P093",
+        "name": "Продукт 93",
+        "category": "Ноутбук",
+        "price": 608.37
+    },
+    {
+        "product_id": "P094",
+        "name": "Продукт 94",
+        "category": "Ноутбук",
+        "price": 486.29
+    },
+    {
+        "product_id": "P095",
+        "name": "Продукт 95",
+        "category": "Ноутбук",
+        "price": 452.51
+    },
+    {
+        "product_id": "P096",
+        "name": "Продукт 96",
+        "category": "Смартфон",
+        "price": 320.58
+    },
+    {
+        "product_id": "P097",
+        "name": "Продукт 97",
+        "category": "Телефизор",
+        "price": 809.82
+    },
+    {
+        "product_id": "P098",
+        "name": "Продукт 98",
+        "category": "Телефизор",
+        "price": 758.04
+    },
+    {
+        "product_id": "P099",
+        "name": "Продукт 99",
+        "category": "Ноутбук",
+        "price": 680.91
+    }
+]
